@@ -25,7 +25,7 @@ public class Lingkaran extends Bentuk implements BangunDatar{
 
     @Override
     public double hitungKeliling() {
-        return 3.14*2*this.jari_jari;
+        return 3.14*this.jari_jari;
     }
 
     @Override
