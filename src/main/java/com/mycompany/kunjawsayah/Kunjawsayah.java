@@ -15,5 +15,10 @@ public class Kunjawsayah {
         PS3.info();
         System.out.printf("%-25s : %.1f \n", "Luas Permukaan", PS3.hitungLuasPermukaan());
         System.out.printf("%-25s : %s \n", "Volume", PS3.hitungVolume());
+        System.out.printf("%-25s : %s \n", "Volume", PS3.hitungVolume());
+        System.out.printf("%-25s : %s \n", "Volume", PS3.hitungVolume());
+        System.out.printf("%-25s : %s \n", "Volume", PS3.hitungVolume());
+        System.out.printf("%-25s : %s \n", "Volume", PS3.hitungVolume());
+        System.out.printf("%-25s : %s \n", "Volume", PS3.hitungVolume());
     }
 }
