@@ -9,7 +9,7 @@ package com.mycompany.kunjawsayah;
  * @author Raychan
  */
 public class Kubus extends Bentuk implements BangunRuang{
-    private int sisi;
+    private int sisi; 
 
     public Kubus(int sisi, String nama) {
         super(nama);
