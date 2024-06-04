@@ -17,7 +17,7 @@
         </repository>
         <repository>
           <id>github</id>
-          <url>https://github.com/BukanRaychan/CI-CD_test.git</url>
+          <url>https://maven.pkg.github.com/BukanRaychan/CI-CD_test.git</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
