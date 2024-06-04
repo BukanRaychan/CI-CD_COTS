@@ -27,7 +27,7 @@
         <exec.mainClass>com.mycompany.kunjawsayah.Kunjawsayah</exec.mainClass>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <sonar.organization>Fasya Raihan Maulana</sonar.organization>
+        <sonar.organization>bukanraychan</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url> 
     </properties>
     <name>cots_mkpl</name>
