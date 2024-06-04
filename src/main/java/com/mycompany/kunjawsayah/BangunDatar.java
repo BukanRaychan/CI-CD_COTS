@@ -9,6 +9,6 @@ package com.mycompany.kunjawsayah;
  * @author Raychan
  */
 public interface BangunDatar {
-    public abstract double hitungKeliling(); 
+    public abstract double hitungKeliling();
     public abstract double hitungLuas();
 }
