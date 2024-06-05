@@ -11,7 +11,7 @@ package com.mycompany.kunjawsayah;
 public class Lingkaran extends Bentuk implements BangunDatar{
     private int jari_jari;
 
-    public Lingkaran(String nama, int jari_jari) {
+    public Lingkaran(String nama, int jari_jari) { 
         super(nama);
         this.jari_jari = jari_jari;
     }
